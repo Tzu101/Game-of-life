@@ -1,0 +1,8 @@
+# Ignore all classes
+*.class
+
+# Ignore all compilations
+*.jar
+
+# Ignore the manifest
+Manifest.txt
